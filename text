@@ -14,3 +14,5 @@ What's a branch ?
 branch is a ref. for the HEAD or the last 
 
 git checkout -b newbranch
+
+git merge newbranch
