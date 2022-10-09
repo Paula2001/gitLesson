@@ -8,3 +8,9 @@ git commit -m "we should write message"
 git reset --soft <hash commit before the commit we want to remove>
 git restore --staged <file name>
 git restore <file name>
+
+What's a branch ? 
+
+branch is a ref. for the HEAD or the last 
+
+git checkout -b newbranch
