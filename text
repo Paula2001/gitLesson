@@ -1,3 +1,10 @@
-<?php 
+GIT : 
 
-	echo "Hi" ; 
+git init 
+git status 
+git log 
+git add . OR git add <file name>
+git commit -m "we should write message"
+git reset --soft <hash commit before the commit we want to remove>
+git restore --staged <file name>
+git restore <file name>
