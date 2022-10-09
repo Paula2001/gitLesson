@@ -18,3 +18,7 @@ git checkout -b newbranch
 git merge newbranch
 
 git remote -vvv
+
+git push 
+
+git pull
